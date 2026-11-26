@@ -1,7 +1,7 @@
 # Hey, I'm Harsh Jaiswal 👋
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:1A0D05,100:FF8C00&height=200&section=header&text=HARSH%20JAISWAL&fontSize=48&fontColor=FF8C00&fontAlignY=38&desc=CODE%20%7C%20BUILD%20%7C%20INNOVATE&descSize=16&descColor=FFFFFF&descAlignY=60" width="100%" />
+  <img src="./assets/banner.png" width="100%" />
 </p>
 
 <p align="center">
@@ -53,7 +53,7 @@
 ### 📈 Contribution Activity
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=harshjaiswal06&bg_color=0D0D0D&color=FFFFFF&line=FF8C00&point=FFB347&area=true&area_color=FF8C00&hide_border=true" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=harshjaiswal06&bg_color=0D0D0D&color=FFFFFF&line=FF8C00&point=FFB347&area=true&hide_border=true" width="100%" />
 </p>
 
 ---
@@ -71,8 +71,4 @@
 
 <p align="center">
   <i>Think. Code. Create. Repeat. 🟠</i>
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF8C00,50:1A0D05,100:000000&height=110&section=footer" width="100%" />
 </p>
