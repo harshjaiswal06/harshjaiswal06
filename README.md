@@ -32,9 +32,13 @@
 
 ---
 
+### 📊 GitHub Streak
+
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=harshjaiswal06&style=flat-square&color=00ff99&label=PROFILE+VIEWS" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=harshjaiswal06&theme=dark&background=0D1117&ring=00FF99&fire=00FF99&currStreakLabel=00FF99&sideLabels=00FF99&hide_border=true" />
 </p>
+
+---
 
 <p align="center">
   <i>Code. Learn. Build. Repeat. 🚀</i>
