@@ -1,20 +1,20 @@
 # Hey, I'm Harsh Jaiswal 👋
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:24292e,100:57606a&height=170&section=header&text=HARSH%20JAISWAL&fontSize=40&fontColor=ffffff&fontAlignY=38&desc=Building%20Ideas%20Into%20Reality&descAlignY=58&descSize=15" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:1A0D05,100:FF8C00&height=200&section=header&text=HARSH%20JAISWAL&fontSize=48&fontColor=FF8C00&fontAlignY=38&desc=CODE%20%7C%20BUILD%20%7C%20INNOVATE&descSize=16&descColor=FFFFFF&descAlignY=60" width="100%" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2200&pause=900&color=238636&center=true&vCenter=true&width=550&lines=Machine+Learning+Enthusiast;Competitive+Programmer;Aspiring+Software+Engineer;Web+Developer" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2200&pause=900&color=FF8C00&center=true&vCenter=true&width=550&lines=Machine+Learning+Enthusiast;Competitive+Programmer;Aspiring+Software+Engineer;Web+Developer" />
 </p>
 
 <p align="center">
-  Exploring algorithms, building intelligent systems, and creating impactful software.
+  <b>Exploring algorithms, building intelligent systems, and creating impactful software.</b>
 </p>
 
 ---
 
-### About Me
+### 🧠 About Me
 
 - 🤖 Passionate about Machine Learning and Artificial Intelligence.
 - 🧩 Enjoy solving problems and exploring algorithms.
@@ -22,13 +22,13 @@
 - 💻 Interested in software engineering and scalable systems.
 - 🚀 Always learning, experimenting and building new things.
 
-### Tech Stack
+### ⚡ Tech Stack
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=java,python,js,react,nodejs,express,html,css,pytorch,git,github,vscode" />
 </p>
 
-### Currently Working On
+### 🎯 Currently Working On
 
 - Strengthening Data Structures & Algorithms.
 - Building full-stack development projects.
@@ -37,41 +37,42 @@
 
 ---
 
-### GitHub Statistics
+### 📊 GitHub Statistics
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=harshjaiswal06&show_icons=true&hide_border=true&title_color=24292e&icon_color=57606a&text_color=24292e&bg_color=ffffff" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshjaiswal06&layout=compact&hide_border=true&title_color=24292e&text_color=24292e&bg_color=ffffff" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=harshjaiswal06&show_icons=true&hide_border=true&title_color=FF8C00&icon_color=FF8C00&text_color=FFFFFF&bg_color=0D0D0D" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshjaiswal06&layout=compact&hide_border=true&title_color=FF8C00&text_color=FFFFFF&bg_color=0D0D0D" />
 </p>
 
-### Contribution Streak
+### 🔥 Contribution Streak
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=harshjaiswal06&theme=default&hide_border=true&background=ffffff&ring=57606a&fire=238636&currStreakLabel=24292e&sideLabels=57606a" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=harshjaiswal06&hide_border=true&background=0D0D0D&ring=FF8C00&fire=FF8C00&currStreakLabel=FF8C00&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=999999" />
 </p>
 
-### Contribution Activity
+### 📈 Contribution Activity
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=harshjaiswal06&bg_color=ffffff&color=24292e&line=57606a&point=238636&area=true&hide_border=true" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=harshjaiswal06&bg_color=0D0D0D&color=FFFFFF&line=FF8C00&point=FFB347&area=true&area_color=FF8C00&hide_border=true" width="100%" />
 </p>
 
 ---
 
-<p align="center">
-  <b>Let's Connect & Build Something Amazing!</b>
-</p>
+### 🤝 Connect With Me
 
 <p align="center">
   <a href="https://github.com/harshjaiswal06">
-    <img src="https://img.shields.io/badge/GitHub-24292e?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=FF8C00" />
+  </a>
+  <a href="https://www.linkedin.com/in/harshjaiswal06/">
+    <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=FF8C00" />
   </a>
 </p>
 
 <p align="center">
-  <i>Code. Learn. Build. Repeat. ⚡</i>
+  <i>Think. Code. Create. Repeat. 🟠</i>
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:57606a,100:24292e&height=100&section=footer" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF8C00,50:1A0D05,100:000000&height=110&section=footer" width="100%" />
 </p>
