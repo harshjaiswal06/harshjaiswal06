@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hey, I'm Harsh Jaiswal 👋
 
-<!--
-**harshjaiswal06/harshjaiswal06** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 **Software Developer | CSE Student | Problem Solver**
 
-Here are some ideas to get you started:
+I enjoy building projects, solving problems, and exploring new technologies.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 Currently building projects in **Java, React & AI**
+- 🌱 Learning **Data Structures & Algorithms, Backend Development & AI/ML**
+- 💡 Interested in **Software Engineering, AI & Open Source**
+- 🎯 Focused on becoming a better problem solver and developer
+- 🤝 Open to collaboration and learning opportunities
+
+### 🛠️ Tech Stack
+**Languages:** Java, JavaScript, Python  
+**Frontend:** React, HTML, CSS  
+**Backend:** Node.js, Express.js  
+**Tools:** Git, GitHub, VS Code
+
+### 📌 Let's Connect
+- 💼 [LinkedIn](YOUR_LINKEDIN_URL)
+- 📧 Email: YOUR_EMAIL
+- 🌐 [GitHub](https://github.com/harshjaiswal06)
+
+---
+
+⭐ *Building. Learning. Improving. One commit at a time.*
