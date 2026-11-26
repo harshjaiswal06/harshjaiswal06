@@ -17,8 +17,7 @@ I enjoy building projects, solving problems, and exploring new technologies.
 **Tools:** Git, GitHub, VS Code
 
 ### 📌 Let's Connect
-- 💼 [LinkedIn](YOUR_LINKEDIN_URL)
-- 📧 Email: YOUR_EMAIL
+- 💼 [LinkedIn](https://www.linkedin.com/in/harshjaiswal06/)
 - 🌐 [GitHub](https://github.com/harshjaiswal06)
 
 ---
