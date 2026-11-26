@@ -1,9 +1,9 @@
 
-# Hey, I'm Harsh Jaiswal 👋
-
 <p align="center">
-  <img src="./assets/harshjaiswal-banner.gif" width="100%" alt="Harsh Jaiswal Developer Banner" />
+  <img src="./assets/harsh--jaiswal.png" width="100%" alt="Harsh Jaiswal Banner" />
 </p>
+
+<h3 align="center">Hey, I'm Harsh Jaiswal 👋</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2200&pause=900&color=FF8C00&center=true&vCenter=true&width=550&lines=Machine+Learning+Enthusiast;Competitive+Programmer;Aspiring+Software+Engineer;Web+Developer" />
